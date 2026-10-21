@@ -4,7 +4,9 @@
 
 Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
 
-**Baru di v0.2:** dunia terbuka tanpa loading · parang, pistol & senapan · rakit molotov & barikade · siklus siang-malam · simpan & lanjutkan · menu & pengaturan · efek suara.
+**Baru di v0.3 — Mabar online:** pilih *Main Online*, isi nama, dan masuk ke satu kota bersama penyintas lain. Zombie, jarahan, barikade, molotov, dan waktu tersinkron; tekan **T** untuk mengobrol.
+
+**v0.2:** dunia terbuka tanpa loading · parang, pistol & senapan · rakit molotov & barikade · siklus siang-malam · simpan & lanjutkan · menu & pengaturan · efek suara.
 
 🌐 **Situs & unduhan:** https://dead-perspective.vercel.app
 
@@ -35,10 +37,12 @@ Semua versi ada di halaman [Releases](https://github.com/yayandev/dead-perspecti
 | F | Senter |
 | F9 | Ganti kualitas grafis (Rendah / Sedang / Tinggi) |
 | Esc | Jeda · Simpan & keluar |
+| T | Obrolan (mode online) |
 
 ## Catatan instalasi
 
 - **macOS:** aplikasi belum dinotarisasi Apple. Setelah ekstrak, klik kanan **Dead Perspective.app → Buka → Buka**. Hanya perlu sekali.
+- **Mode online** butuh internet (UDP port 27200 ke server). Inventaris online tersimpan terpisah dari simpanan offline.
 - **Windows:** jika SmartScreen muncul, klik **Info selengkapnya → Tetap jalankan**.
 
 ---
