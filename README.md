@@ -2,7 +2,9 @@
 
 **Game survival zombie top-down gratis untuk Windows & macOS — berlatar kota Indonesia.**
 
-Bertahan hidup di Jalan Kenanga: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya.
+Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
+
+**Baru di v0.2:** dunia terbuka tanpa loading · parang, pistol & senapan · rakit molotov & barikade · siklus siang-malam · simpan & lanjutkan · menu & pengaturan · efek suara.
 
 🌐 **Situs & unduhan:** https://dead-perspective.vercel.app
 
@@ -24,10 +26,15 @@ Semua versi ada di halaman [Releases](https://github.com/yayandev/dead-perspecti
 | Mouse | Membidik |
 | Klik kiri | Menembak |
 | R | Isi ulang |
+| Q | Ganti senjata |
+| G | Lempar molotov |
+| B | Pasang barikade |
+| Tab | Menu rakit |
 | E (tahan) | Menggeledah kontainer |
 | 1 / 2 / 3 | Perban / Makanan / Minuman |
 | F | Senter |
 | F9 | Ganti kualitas grafis (Rendah / Sedang / Tinggi) |
+| Esc | Jeda · Simpan & keluar |
 
 ## Catatan instalasi
 
