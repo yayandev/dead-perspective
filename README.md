@@ -4,7 +4,9 @@
 
 Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
 
-**Baru di v0.8 — Pintu:** pintu rumah dan toko bisa dibuka/ditutup (E) dan dipaku papan (B, maks. 3). Zombie menggedor pintu tertutup sampai jebol, dan pintu tertutup menghalangi pandangan mereka.
+**Baru di v0.9 — Kendaraan:** angkot dan mobil bisa dikendarai (E naik/turun, W/S gas/rem, A/D belok). Isi bensin dari jeriken, tabrak zombie di jalan, dan hati-hati dengan suara mesin. Kendaraan tetap di tempat kamu meninggalkannya, juga di mode online.
+
+**v0.8 — Pintu:** pintu rumah dan toko bisa dibuka/ditutup (E) dan dipaku papan (B, maks. 3). Zombie menggedor pintu tertutup sampai jebol, dan pintu tertutup menghalangi pandangan mereka.
 
 **v0.7 — Keahlian & pekerjaan:** pilih pekerjaanmu sebelum wabah (Satpam, Ojol, Perawat, Tukang, Pedagang, Mahasiswa, Warga). 8 keahlian dengan level 0–10 yang naik saat kamu melakukannya, buku keahlian, tas (sekolah/ransel/carrier), berat bawaan, dan buang barang dengan klik kanan.
 
