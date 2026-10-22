@@ -4,6 +4,8 @@
 
 Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
 
+**Baru di v0.4 — Sembunyi & peta:** sembunyi di tong, lemari, bak sampah, mobil, atau angkot (Spasi); zombie yang melihatmu masuk akan menggeledah; senter menyala di malam hari membuatmu mudah terlihat; peta kecil dan peta kota (M) yang hanya menggambar area yang sudah dijelajahi.
+
 **v0.3.1 — Tampilan baru:** tas dengan ikon dan klik-untuk-pakai, rakit dengan bahan hijau/merah, HUD baru, dan menu jeda yang rapi di tengah layar.
 
 **v0.3 — Mabar online:** pilih *Main Online*, isi nama, dan masuk ke satu kota bersama penyintas lain. Zombie, jarahan, barikade, molotov, dan waktu tersinkron; tekan **T** untuk mengobrol.
@@ -30,6 +32,8 @@ Semua versi ada di halaman [Releases](https://github.com/yayandev/dead-perspecti
 | Mouse | Membidik |
 | Klik kiri | Menembak |
 | R | Isi ulang |
+| Spasi | Sembunyi / keluar |
+| M / N | Peta kota / peta kecil |
 | Q | Ganti senjata |
 | G | Lempar molotov |
 | B | Pasang barikade |
