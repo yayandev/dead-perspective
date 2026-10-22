@@ -4,7 +4,9 @@
 
 Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
 
-**Baru di v0.9 — Kendaraan:** angkot dan mobil bisa dikendarai (E naik/turun, W/S gas/rem, A/D belok). Isi bensin dari jeriken, tabrak zombie di jalan, dan hati-hati dengan suara mesin. Kendaraan tetap di tempat kamu meninggalkannya, juga di mode online.
+**Baru di v1.0 — Generator & SPBU:** listrik kota padam di hari ke-3. Pasang generator (E nyala/mati, Shift+E angkat) untuk menyalakan lampu jalan dan pompa bensin di sekitarnya. Di kota ada SPBU: tahan E di pompa untuk mengisi jeriken, asal ada listrik. Suara generator memanggil zombie, dan bensinnya harus diisi ulang.
+
+**v0.9 — Kendaraan:** angkot dan mobil bisa dikendarai (E naik/turun, W/S gas/rem, A/D belok). Isi bensin dari jeriken, tabrak zombie di jalan, dan hati-hati dengan suara mesin. Kendaraan tetap di tempat kamu meninggalkannya, juga di mode online.
 
 **v0.8 — Pintu:** pintu rumah dan toko bisa dibuka/ditutup (E) dan dipaku papan (B, maks. 3). Zombie menggedor pintu tertutup sampai jebol, dan pintu tertutup menghalangi pandangan mereka.
 
