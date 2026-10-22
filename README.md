@@ -4,7 +4,9 @@
 
 Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
 
-**Baru di v0.6 — Mengendap & pandangan:** jongkok (C) untuk bergerak senyap dan menebas dari belakang, kerucut pandangan ala Project Zomboid, zombie yang kehilangan jejakmu setelah 6 detik, helikopter yang memancing gerombolan, dan listrik padam mulai hari ke-3.
+**Baru di v0.7 — Keahlian & pekerjaan:** pilih pekerjaanmu sebelum wabah (Satpam, Ojol, Perawat, Tukang, Pedagang, Mahasiswa, Warga). 8 keahlian dengan level 0–10 yang naik saat kamu melakukannya, buku keahlian, tas (sekolah/ransel/carrier), berat bawaan, dan buang barang dengan klik kanan.
+
+**v0.6 — Mengendap & pandangan:** jongkok (C) untuk bergerak senyap dan menebas dari belakang, kerucut pandangan ala Project Zomboid, zombie yang kehilangan jejakmu setelah 6 detik, helikopter yang memancing gerombolan, dan listrik padam mulai hari ke-3.
 
 **v0.5 — Luka & infeksi:** serangan zombie meninggalkan gores, luka robek, atau gigitan. Pendarahan, perban kotor, alkohol, dan antibiotik. Gigitan tanpa obat membuatmu berubah jadi zombie. Moodles (panik, lelah, cemas, demam…), tidur di tempat sembunyi (Z), kopi sachet, dan minyak kayu putih.
 
@@ -39,6 +41,7 @@ Semua versi ada di halaman [Releases](https://github.com/yayandev/dead-perspecti
 | Klik kiri | Menembak |
 | R | Isi ulang |
 | C | Mengendap (jongkok) |
+| K | Keahlian |
 | Spasi | Sembunyi / keluar |
 | Z | Tidur (saat bersembunyi) |
 | M / N | Peta kota / peta kecil |
