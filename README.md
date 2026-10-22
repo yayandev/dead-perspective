@@ -4,7 +4,9 @@
 
 Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
 
-**Baru di v0.4 — Sembunyi & peta:** sembunyi di tong, lemari, bak sampah, mobil, atau angkot (Spasi); zombie yang melihatmu masuk akan menggeledah; senter menyala di malam hari membuatmu mudah terlihat; peta kecil dan peta kota (M) yang hanya menggambar area yang sudah dijelajahi.
+**v0.4.1:** game memberi tahu di menu utama kalau ada versi baru, lengkap dengan tombol unduh.
+
+**v0.4 — Sembunyi & peta:** sembunyi di tong, lemari, bak sampah, mobil, atau angkot (Spasi); zombie yang melihatmu masuk akan menggeledah; senter menyala di malam hari membuatmu mudah terlihat; peta kecil dan peta kota (M) yang hanya menggambar area yang sudah dijelajahi.
 
 **v0.3.1 — Tampilan baru:** tas dengan ikon dan klik-untuk-pakai, rakit dengan bahan hijau/merah, HUD baru, dan menu jeda yang rapi di tengah layar.
 
