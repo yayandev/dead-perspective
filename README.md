@@ -4,7 +4,9 @@
 
 Bertahan hidup di kota terbuka — dari Jalan Kenanga, deretan ruko, gang kampung, sampai pasar: geledah ruko, warung, angkot, dan minimarket untuk mencari peluru, perban, makanan, dan minuman — sementara warga, ojol, dan satpam yang sudah terinfeksi terus berdatangan. Setiap tembakan terdengar; zombie akan datang mencari sumber suaranya. Saat malam tiba, mereka makin banyak.
 
-**Baru di v1.2 — Markas & pintu terkunci:** bangun markas dengan peti simpanan dan kasur. Gedung sekarang bertingkat: kantor polisi 3 lantai dengan helipad di atap, rumah kampung 2 lantai. Kampung punya lapangan bola. Sebagian pintu rumah dan semua ruko tutup terkunci, jadi cari linggis untuk masuk ke gudang toko. Titik geledah sekarang ada di lemari dan konter, dan pemain tidak lagi tersangkut di tepi trotoar.
+**Baru di v1.3 — Evakuasi BNPB:** sekarang ada jalan keluar. Temukan radio, panggil helikopter BNPB, lalu bertahan sampai jemputan mendarat di atap kantor polisi atau lapangan kampung. Suara rotornya memanggil zombie dari jauh. Berhasil naik = run selesai dengan skor, dan rekor terbaikmu tampil di menu utama. Suara juga dirombak: mesin kendaraan, langkah zombie per jenis, dan suara kota di kejauhan. Jelajah kota jauh lebih mulus.
+
+**v1.2 — Markas & pintu terkunci:** bangun markas dengan peti simpanan dan kasur. Gedung sekarang bertingkat: kantor polisi 3 lantai dengan helipad di atap, rumah kampung 2 lantai. Kampung punya lapangan bola. Sebagian pintu rumah dan semua ruko tutup terkunci, jadi cari linggis untuk masuk ke gudang toko. Titik geledah sekarang ada di lemari dan konter, dan pemain tidak lagi tersangkut di tepi trotoar.
 
 **v1.1 — Kota makin hidup:** kantor polisi, rumah sakit, apotek, bengkel, dan pos ronda dengan jarahan masing-masing. Mayat zombie bisa digeledah. Di mode online, sampai 4 orang bisa naik satu kendaraan, dan penumpang bisa menembak dari jendela. Lapar dan haus lebih santai, zombie lebih sedikit, dan SPBU tinggal satu (bensin jadi berharga). Ada juga banyak perbaikan bug: kendaraan yang menghilang, animasi jongkok, dan pesan "versi berbeda" saat main online.
 
